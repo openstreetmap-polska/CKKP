@@ -18,4 +18,4 @@ Szczegółowy opis bazy danych znajdą Państwo w katalogu [docs](/docs)
 
 Otwarty charakter bazy oznacza, że będzie ona ciągle rozwijana i będzie ewoluować.
 
-![Baner projektu](/img/media/baner.png)
+![Baner projektu](/img/media/baner_1920.png)
