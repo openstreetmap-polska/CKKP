@@ -15,6 +15,8 @@ CKKP w odróżnieniu o KKP  uwzględnia specyfikę danych przestrzennych. Cyfryz
 
 Szczegółowy opis bazy danych znajdą Państwo w katalogu [docs](/docs)
 
+Podgląd mapy jest dostępny w serwise [UMap](http://u.osmfr.org/m/1133909/) 
+
 
 Otwarty charakter bazy oznacza, że będzie ona ciągle rozwijana i będzie ewoluować.
 
